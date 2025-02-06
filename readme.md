@@ -33,7 +33,7 @@ Wordlist Genius est un outil puissant pour créer des wordlists personnalisées 
 
 1. Téléchargement :
 ```bash
-git https://github.com/habib26-14/stealth_buster
+git clone https://github.com/habib26-14/wordlist_gen.git  
 cd wordlist_gen
 ```
 
@@ -96,7 +96,7 @@ Cette tool est destinée à des **tests de sécurité autorisés** uniquement. T
 
 ## 🔄 Intégration
 
-Utilisez la wordlist générée avec [Stealth Buster](https://github.com/yourusername/stealth_buster) pour des scans optimisés :
+Utilisez la wordlist générée avec [Stealth Buster](https://github.com/habib26-14/stealth_buster) pour des scans optimisés :
 ```bash
 python3 stealth_buster.py -u http://cible.com -w custom_wl.txt -t 15 --delay 0.5
 ```
