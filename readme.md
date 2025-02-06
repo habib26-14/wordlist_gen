@@ -33,7 +33,7 @@ Wordlist Genius est un outil puissant pour créer des wordlists personnalisées 
 
 1. Téléchargement :
 ```bash
-git clone https://github.com/yourusername/wordlist_gen.git
+git https://github.com/habib26-14/stealth_buster
 cd wordlist_gen
 ```
 
